@@ -1,0 +1,28 @@
+# ── Competition data (do NOT redistribute — belongs to Tata Steel/HackerEarth) ──
+dataset/
+outputs/expected_submission.csv
+outputs/candidates/
+submission_source.zip
+
+# ── Local harness / editor config ──
+.claude/
+
+# ── Generated / heavy artifacts ──
+models/*.pkl
+catboost_info/
+*.npy
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ── OS / editor ──
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
