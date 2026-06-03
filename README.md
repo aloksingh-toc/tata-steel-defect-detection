@@ -7,7 +7,7 @@ HackerEarth leaderboard.
 > **Note on data:** The competition dataset (`dataset/`) is **not** included in this
 > repository — it is the property of Tata Steel / HackerEarth and may not be
 > redistributed. To run the pipeline, place `train.csv`, `test.csv`, and
-> `sample_submission.csv` into a `dataset/` folder at the project root.
+> `sample_submission.csv`  into a `dataset/` folder at the project root.
 
 ## Quickstart
 
