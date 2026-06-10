@@ -1,4 +1,4 @@
-# Defect Detection in Hot Rolling — Tata Steel AI Hackathon
+# Defect Detection in Hot Rolling  — Tata Steel AI Hackathon
 
 Detect **Alpha defects** in steel coils during Hot Rolling (binary classification),
 on a severely imbalanced dataset (19.5 : 1). My submission scored **64.47** on the
